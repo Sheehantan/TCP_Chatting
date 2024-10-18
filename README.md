@@ -1,5 +1,19 @@
 # TCP_Chatting
 
+1.目前实现功能
+
+(1)cilent通过局域网于server连接
+
+(2)在cilent 和 server 对应终端按Y(y）后，按照格式输入消息可以和其它cilent或者给server发消息，可连续发送
+
+(3)实现在终端打印收到的消息和在终端输入过程互斥
+
+
+<img width="640" alt="p1" src="https://github.com/user-attachments/assets/17aeb711-d560-4fe3-a62b-9897a5c76307">
+
+
+
+
 2.使用方法
 
 
