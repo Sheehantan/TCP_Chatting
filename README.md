@@ -42,7 +42,7 @@ git clone https://github.com/Sheehantan/TCP_Chatting
 
 
 
-安装图中配置
+按照图中配置
 
 <img width="640" alt="VS4" src="https://github.com/user-attachments/assets/fee44280-eed8-4ca4-924e-94ab682f8cbc">
 
